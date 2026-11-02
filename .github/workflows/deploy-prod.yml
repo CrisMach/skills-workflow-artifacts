@@ -29,4 +29,3 @@ jobs:
           echo "Download artifact contents:"
           tree website
           echo "Demo deploy step: replace with your real deploy command."
-        #1
