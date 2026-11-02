@@ -84,7 +84,7 @@ jobs:
           head-sha: ${{ github.sha }}
           status: completed
           polling-interval: 10
-          timeout: 100
+          timeout: 600
           fail-on-timeout: true
 
       - name: Update comment - step results
